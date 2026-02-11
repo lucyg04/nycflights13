@@ -21,7 +21,7 @@ Before running the notebook, ensure you have **Python 3.8+** installed.
 Run the following commands in the terminal to complete setup:
 
 ```bash
-# Install data processing and visualization libraries
+# Install data processing and visualisation libraries
 pip install numpy pandas seaborn
 
 # Install/Update scikit-learn for machine learning models
