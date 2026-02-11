@@ -13,3 +13,16 @@ This analysis utilises a subset of the nycflights13 dataset, which includes:
 * **planes.csv:** construction metadata for individual aircraft
 * **airports.csv:** airport names and locations
 * **airlines.csv:** two-letter codes mapped to full airline names
+
+## Setup
+Before running the notebook, ensure you have **Python 3.8+** installed.
+
+### 1. Install Dependencies
+Run the following commands in the terminal to complete setup:
+
+```bash
+# Install data processing and visualization libraries
+pip install numpy pandas seaborn
+
+# Install/Update scikit-learn for machine learning models
+pip install -U scikit-learn
