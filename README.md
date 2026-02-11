@@ -4,7 +4,7 @@ This project explores the nycflights13 dataset containing flights originating fr
 ## Project Overview
 This project addresses two questions:
 1. **Predictive Modelling:** can we predict if a flight will arrive late before it departs?
-2. **Feature Correlation:** which factors (weather, carrier, time of day, etc. are most strongly correlated with delays?
+2. **Feature Correlation:** which factors (weather, carrier, time of day, etc.) are most strongly correlated with delays?
 
 ## Dataset
 This analysis utilises a subset of the nycflights13 dataset, which includes:
