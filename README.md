@@ -18,7 +18,7 @@ This analysis utilises a subset of the nycflights13 dataset, which includes:
 Before running the notebook, ensure you have **Python 3.8+** installed.
 
 ### 1. Install Dependencies
-Run the following commands in the terminal to complete setup:
+Run the following commands in the terminal to complete setup from the parent folder (nycflights13):
 
 ```bash
 # Install data processing and visualisation libraries
