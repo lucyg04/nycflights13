@@ -26,3 +26,9 @@ pip install numpy pandas seaborn matplotlib
 
 # Install/Update scikit-learn for machine learning models
 pip install -U scikit-learn
+
+# STEPS FOR TOMORROW
+1. Build sets for holdout validation and train 3 models: logistic regression, random forest and XGBoost (SVM)
+2. Pick the best model for recall
+3. Build sets for 5-fold cross validation
+4. Train best model on that & tune
