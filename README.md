@@ -22,7 +22,7 @@ Run the following commands in the terminal to complete setup from the parent fol
 
 ```bash
 # Install data processing and visualisation libraries
-pip install numpy pandas seaborn matplotlib
+pip install numpy pandas seaborn matplotlib xgboost
 
 # Install/Update scikit-learn for machine learning models
 pip install -U scikit-learn
