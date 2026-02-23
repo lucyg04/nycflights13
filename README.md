@@ -17,18 +17,11 @@ This analysis utilises a subset of the nycflights13 dataset, which includes:
 ## Setup
 Before running the notebook, ensure you have **Python 3.8+** installed.
 
-### 1. Install Dependencies
 Run the following commands in the terminal to complete setup from the parent folder (nycflights13):
 
 ```bash
 # Install data processing and visualisation libraries
-pip install numpy pandas seaborn matplotlib xgboost
+pip install numpy pandas seaborn matplotlib
 
 # Install/Update scikit-learn for machine learning models
 pip install -U scikit-learn
-pip install xgboost
-
-# STEPS FOR TOMORROW
-1. Pick the best model for recall
-2. Build sets for 5-fold cross validation
-3. Train best model on that & tune
